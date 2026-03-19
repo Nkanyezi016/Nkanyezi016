@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nkanyezi Mtimkulu
+📍 Based in Gauteng, South Africa
+🎓 Mathematics & Statistics Graduate | 💻 Software Engineering Student
 
-<!--
-**Nkanyezi016/Nkanyezi016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I'm a 23-year-old aspiring software engineer with a passion for problem-solving and building meaningful applications. My background in Mathematics and Statistics has equipped me with strong analytical skills, which I now combine with my growing technical expertise in software development.
 
-Here are some ideas to get you started:
+Currently, I'm diving deep into Java and Object-Oriented Programming to strengthen my foundation as a developer. I'm always eager to learn, build, and collaborate on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+Mastering Java and OOP principles
+
+Building projects with Python, JavaScript, HTML, and CSS
+
+Exploring full-stack development and software engineering best practices
+
+Documenting my learning journey through code
+
+
